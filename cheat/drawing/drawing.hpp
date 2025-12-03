@@ -5,4 +5,6 @@
 namespace image {
     extern ID3D11ShaderResourceView* esp_demo;
     extern ID3D11ShaderResourceView* passionv2;
+
 }
+
